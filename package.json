@@ -1,0 +1,15 @@
+{
+  "name": "shopify-starter",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "dependencies": {
+    "@shopify/themekit": "1.1.4"
+  }
+}
