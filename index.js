@@ -5,7 +5,10 @@ http
     res.end(
       `Hey\n
 You can start developing your Shopify theme with the normal CLI commands in the terminal below.\n
-Only need to set 2 secrets: \n\n\nTHEMEKIT_PASSWORD && THEMEKIT_STORE\n\n
+(Click on the little plus icon!)\n\n
+
+Set your secrets in the Server Control Panel on the left side and voila: \n\n\nTHEMEKIT_PASSWORD && THEMEKIT_STORE\n\n
+
 More details here: https://shopify.github.io/themekit/configuration/#config-file`
     );
   })
